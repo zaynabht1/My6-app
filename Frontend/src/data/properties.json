@@ -1,0 +1,32 @@
+
+ [
+    {
+    "Id": 1 ,
+    "Type":"HOUSE" ,
+    "Price":12000},
+    {
+      "Id": 2 ,
+      "Type":"HOUSE" ,
+      "Price":13000},
+
+    {
+        "Id": 3 ,
+        "Type":"HOUSE" ,
+        "Price":14000},
+    {
+          "Id": 4 ,
+          "Type":"HOUSE" ,
+          "Price":154000},
+     {
+            "Id": 5 ,
+            "Type":"HOUSE" ,
+            "Price":1545000},
+  {
+              "Id": 6 ,
+              "Type":"HOUSE" ,
+              "Price":15450000}
+
+
+
+  ]
+
